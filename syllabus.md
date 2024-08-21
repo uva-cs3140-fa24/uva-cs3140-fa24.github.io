@@ -122,7 +122,6 @@ This will act as the textbook for this course. This is a free resource that is a
 * Slides -> Drive Folder
 * In-class code -> Drive Folder
 * Homework instructions -> Drive Folder
-* Lecture recordings -> Canvas
 * Quizzes -> Canvas
 * Finding a team -> In-class or Piazza (using the LFG pinned post)
 * Concept questions -> Piazza or Office hours
@@ -132,10 +131,7 @@ This will act as the textbook for this course. This is a free resource that is a
 
 ## Canvas
 
-Canvas has links to all other course material.
-
 - Links to all other class resources
-- Lecture recordings
 - Quizzes (only Quizzes - Exams are *in-person* pencil and paper)
 - Gradebook (including curved exam scores)
 
@@ -457,9 +453,11 @@ If you find you are copying more than 8 lines or so, you should stop. Copying co
 
 ### AI Assistance rules
 
-Use of AI Assistants, like ChatGPT, Copilot, etc., is allowed **only in limited circumstances**. The rules are the same as StackOverflow - you may copy small snippets of code (typically small functions, etc.). You may not copy an entire class from an AI tool, and you should never copy more than 8 or so lines of code at a time. Copying code from any external source for significant portions of the assignment is considered academic dishonesty, and will be treated as such.
+Use of AI Assistants, like ChatGPT, Copilot, etc. is allowed when used appropriately and with citation. The rules are the same as StackOverflow - you may copy small snippets of code (typically small functions, etc.). You should not however, attempt to use such tools to complete entire assignments.
 
 **All AI tool use must be cited in your code comments!!!** (See below)
+
+**All "chat logs" with AI tools must be saved!**
 
 
 ### How to Cite Code
@@ -499,7 +497,7 @@ will not be accepted as a defense for violating them.
 If the course faculty find sufficient evidence to indicate that your homework submission violates our policies outline above, you will receive the following penalties depending on severity at the discretion of the professor:
 
 * 0 on the entire assignment (not just the portion that violated our policies)
-* Final Grade deduction in the course of one full letter grade (after applying a zero) of at least 10%
+* An additional final grade deduction in the course of one full letter grade (after applying a zero) of at least 10%
 * F in the course
 * Referral to Student Honor
 
@@ -577,6 +575,10 @@ exam scores being posted.
 Regrade requests on Exams that result in points changes will eventually be reflected in the curved scores
 on Canvas. **However, it may take up to one week for curved scores to be updated.**
 
+## Academic Honesty
+
+Students found copying on exams will receive an automatic F in the course, regardless if the copying occurs on the midterm or final exam.
+
 # Regrade Requests
 
 For Homework and exams, regrade requests can be submitted on Gradescope **within one week of an assignment's scores being posted on Gradescope**. Regrade requests cannot be accepted for any reason after the regrade request deadline. The course staff **will not revisit old assignments at the end of the semester**, even if it would bump you up a letter grade. 
@@ -614,17 +616,10 @@ to your final course grade, and your regrade request being declined without furt
 * No attendance will be taken during the live lectures sessions on Tuesdays and Thursdays.
 * In person attendance is required for exams unless you have made other arrangements
 * Students are encouraged to attend the section they registered for. However, you may attend the other section's lecture occasionally as needed.
-* If lecture attendance is consistently below 60%, lectures will no longer be recorded for the remainder of the semester.
 
-## Lecture Recordings
+## Lectures
 
-* Lecture sessions will generally be recorded and made available through the Lecture Recordings tool in Canvas.  
-  * However, recordings will not include material written on the board 
-  * Recordings may lose audio when the speaker needs to walk away from the microphone
-  * Recordings that are corrupted or missing are unlikely to be replaced
-  * Recordings are not an alternative to attending class, and this class is not meant to be taken remotely
-* If the professors see consistent attendance below 60%, lectures will no longer be recorded for the remainder of the semester.
-* **Lecture recordings are not an alternative to attending class**, and are intended for review/reference. You will not learn effectively without participation and engagement!
+Lectures **will not be recorded.** All readings, slides, and code examples from class will be uploaded to the Drive Folder. 
 
 # This Syllabus
 
