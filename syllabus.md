@@ -626,9 +626,8 @@ Lectures **will not be recorded.** All readings, slides, and code examples from 
 This syllabus is to be considered a reference document that can and will be adjusted 
 through the course of the semester to address changing needs. This syllabus can be 
 changed at any time. Significant changes will be announced via daily announcements in class and on Piazza as a pinned post. It is up to the student to monitor this page and their announcements for any changes. 
-Final authority on any decision in this course rests with the professor, not with this document.
 
-You are expected to have actually read this syllabus. If you have, you can demonstrate this by emailing Prof. McBurney with the subject line "[SDE] I read the syllabus". The first 10 students to do so will receive 3 bonus points on Homework 1. This opportunity expires on the due date of HW1 Part 1.
+Final authority on any decision in this course rests with the professor, not with this document.
 
 ## Professionalism
 
