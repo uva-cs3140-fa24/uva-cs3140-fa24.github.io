@@ -19,8 +19,9 @@ Professor Office Hours are drop-in. You do not need to schedule an appointment:
 
 
 * Prof. Derrick Stone
-  * Office: 
+  * Office: Rice 209
   * Office Hours:
+    * Tuesdays - 12:30 p.m. to 1:50 p.m.
     
  
 
