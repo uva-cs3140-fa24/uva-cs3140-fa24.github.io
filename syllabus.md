@@ -45,18 +45,18 @@ Both sections use same resources, assignments, policies, notes, etc.
 __Instructor:__ Prof. Will McBurney    
 Office: Rice 404  
 Office Hours:
-* Mondays 1 to 4 p.m.
-* Tuesdays 10 to 11 a.m.
-* Wednesdays 10 a.m to Noon     
+* Tuesdays - 10:30 a.m. to 12:00 p.m.
+* Thursdays - 11:00 a.m to 12:30 p.m.    
 Email: [pm8fc@virginia.edu](pm8fc@virginia.edu)      
 Website: [http://www.cs.virginia.edu/~pm8fc/](http://www.cs.virginia.edu/~pm8fc/) 
 
 
-__Instructor:__ Derrick Stone   
-Office:
-Office Hours: TBA
-Email:      
-Website:
+__Instructor:__ Derrick Stone
+* Office: Rice 209
+* Office Hours:
+    * Tuesdays - 12:30 p.m. to 1:50 p.m.
+Email: [djs6d@virginia.edu](djs6d@virginia.edu)    
+Website: [https://engineering.virginia.edu/faculty/derrick-stone](https://engineering.virginia.edu/faculty/derrick-stone)
 
 
 __Teaching Assistants:__ TBD  

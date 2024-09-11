@@ -32,16 +32,16 @@ __Instructor:__ Prof. Will McBurney
 Office: Rice 404  
 Office Hours:
 * Tuesdays - 10:30 a.m. to 12:00 p.m.
-* Wednesdays - 2:00 p.m. to 3:30 p.m.
 * Thursdays - 11:00 a.m to 12:30 p.m.  
 Email: [mcburney@virginia.edu](mailto:mcburney@virginia.edu)      
 Website: [http://www.cs.virginia.edu/~pm8fc/](http://www.cs.virginia.edu/~pm8fc/) 
 
-__Instructor:__ Derrick Stone   
-Office: 
-Office Hours: TBA
-  Email:      
-  Website: 
+__Instructor:__ Derrick Stone
+* Office: Rice 209
+* Office Hours:
+  * Tuesdays - 12:30 p.m. to 1:50 p.m.
+    Email: [djs6d@virginia.edu](djs6d@virginia.edu)    
+    Website: [https://engineering.virginia.edu/faculty/derrick-stone](https://engineering.virginia.edu/faculty/derrick-stone)
 
 
 __Teaching Assistants:__ TBA

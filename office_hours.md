@@ -13,9 +13,9 @@ Professor Office Hours are drop-in. You do not need to schedule an appointment:
 * Prof. Will McBurney
   * Office: Rice 404
   * Office Hours:
-    * Tuesdays - 10:30 a.m. to 12:00 p.m. 
-    * Wednesdays - 2:00 p.m. to 3:30 p.m. 
+    * Tuesdays - 10:30 a.m. to 12:00 p.m.  
     * Thursdays - 11:00 a.m to 12:30 p.m.
+    * Additional ad hoc hours announced on Piazza
 
 
 * Prof. Derrick Stone
