@@ -45,8 +45,9 @@ Both sections use same resources, assignments, policies, notes, etc.
 __Instructor:__ Prof. Will McBurney    
 Office: Rice 404  
 Office Hours:
-* Tuesdays - 10:30 a.m. to 12:00 p.m.
-* Thursdays - 11:00 a.m to 12:30 p.m.    
+* Tuesdays - 10:30 a.m. to 12:00 p.m.  
+* Wednesdays - 2:00 p.m. to 3:30 p.m.  
+* Thursdays - 11:00 a.m to 12:30 p.m.     
 Email: [pm8fc@virginia.edu](pm8fc@virginia.edu)      
 Website: [http://www.cs.virginia.edu/~pm8fc/](http://www.cs.virginia.edu/~pm8fc/) 
 
