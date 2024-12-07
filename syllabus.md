@@ -368,7 +368,7 @@ HW1 is broken into two 50 point parts submitted separately, rather than a single
 ### HW6 Late Policy
 
 Homework 6 will have a separate late policy - no late submissions after 
-Friday, December 10th, at 11:59 p.m. for any reason. 
+Friday, December 6th, at 11:59 p.m. for any reason. 
    1. This is in order to ensure:
       1. TAs have time to grade the final assignment
       2. Students have time to study for the final exam
